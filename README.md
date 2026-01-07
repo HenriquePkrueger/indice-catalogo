@@ -1,4 +1,4 @@
-# Indice-Catalogo
+# índice / Catálogo
 
 Repositório índice
 
