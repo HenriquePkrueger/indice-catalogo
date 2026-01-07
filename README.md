@@ -1,2 +1,8 @@
 # Indice-Catalogo
+
 Repositório índice
+
+## 🎓 Faculdade
+
+## 🚀 Projetos Pessoais
+- 🔗 Futura Gestão Contábil -Landing Page- 
